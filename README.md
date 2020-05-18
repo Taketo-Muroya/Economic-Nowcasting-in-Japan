@@ -1,9 +1,25 @@
 # The Nowcasting of Economic Conditions in Japan Using Machine Learning
 
-Since official economic statistics in Japan are usually published more than one month later than the period to which they refer, it is difficult to assess the current economic conditions in a timely and accurate manner. Therefore, this study tries to nowcast the Index of Business Conditions (IBC), which is supposed to represent monthly economic conditions, using the text data from economic reports, and the numeric values from Google searches and electricity usage. The Japanese government’s Monthly Economic Report, which is published slightly earlier than the IBC, is used as the text data in this study. Using the Natural Language Processing (NLP) technique, this text data is transformed into numeric values, such as text vectors and sentiment scores. The nowcasting of the IBC is mainly made by machine learning methods, especially the Recurrent Neural Network with Long Short-Term Memory (RNN-LSTM), in addition to the traditional econometrics model. As a result, the text vectors and sentiment scores from economic reports nowcasts the IBC with high test scores, though it is not very timely data. The Google search and electricity usage data, which are available on a daily basis, nowcast the IBC with relatively high performances in a very timely fashion. Moreover, if the industry electricity usage, which is more highly correlated with economic activities than household one is, could become available, the nowcasting of economic conditions would improve.
-
 Python code: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/code.ipynb
 
-Presentation: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/Slide.pdf
-
 Paper: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/Paper.pdf
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-01.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-02.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-03.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-04.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-05.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-06.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-07.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-08.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-09.png)
+
+![Image of slide](https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/slide_images/slide-10.png)

@@ -1,5 +1,3 @@
-# The Nowcasting of Economic Conditions in Japan Using Machine Learning
-
 Python code: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/code.ipynb
 
 Paper: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/Paper.pdf

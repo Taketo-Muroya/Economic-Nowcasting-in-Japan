@@ -1,4 +1,4 @@
-Python code: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/code.ipynb
+Code: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/code.ipynb
 
 Paper: https://github.com/Taketo-Muroya/Economic-Nowcasting-in-Japan/blob/master/Paper.pdf
 
